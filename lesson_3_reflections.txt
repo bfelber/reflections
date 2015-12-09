@@ -17,6 +17,11 @@ Other than using another version control system, you could pass changes in the b
 The problem with that is that emulating tracked commits would be difficult and error prone. There would likely be no 
 good audit trail and general confusion would prevail.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+You could use a separate branch to put in a temporary change upon which you can collaborate. Then merge the branches as part of or 
+after collaboration. This what the main branch remains unchanged until all parties agree on the change.
+Changing in Master directly may be less total work but the collaborative steps are not tracked.
+
  
 
 
