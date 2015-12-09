@@ -12,6 +12,13 @@ Branches are a way to diverge your revision change. So you can add commits that 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 The benefit is that you can go offline and see both. You may want to analyze both before merging.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Other than using another version control system, you could pass changes in the body or attachments in e-mail.
+The problem with that is that emulating tracked commits would be difficult and error prone. There would likely be no 
+good audit trail and general confusion would prevail.
+
+ 
+
 
 
 
